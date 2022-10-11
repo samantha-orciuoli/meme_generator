@@ -1,4 +1,4 @@
-# intermediate_python
+# Meme Generator - Intermediate Python Nanodegree
 
 The goal of this project is to build a meme generator – an application to generate memes,
 including an image with an overlaid quote. (Udacity)
